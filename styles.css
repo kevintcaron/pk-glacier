@@ -70,31 +70,31 @@ h2, h3, h4, p {
     background-size: cover;
 }
 
-#img-pk-eastglacier:hover {
+#img-pk-eastglacier:active {
     background-image: url("images/pk-eastglacier.jpg");
 }
 
-#img-pk-lil-creek:hover {
+#img-pk-lil-creek:active {
     background-image: url("images/pk-lil-creek.jpg");
 }
 
-#img-pk-hiddenlake:hover {
+#img-pk-hiddenlake:active {
     background-image: url("images/pk-hiddenlake.jpg");
 }
 
-#img-pk-river:hover {
+#img-pk-river:active {
     background-image: url("images/pk-river.jpg");
 }
 
-#img-pk-lakemcdonald:hover {
+#img-pk-lakemcdonald:active {
     background-image: url("images/pk-lakemcdonald.jpg");
 }
 
-#img-pk-waterfall:hover {
+#img-pk-waterfall:active {
     background-image: url("images/pk-waterfall.jpg");
 }
 
-#img-p-river:hover {
+#img-p-river:active {
     background-image: url("images/p-river.jpg");
 }
 
